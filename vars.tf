@@ -9,3 +9,8 @@ variable "sleepy_time" {
   description = "How long our local-exec will take a nap."
   default     = 30
 }
+
+variable "bool_i_az_elet" {
+  description = "A sample boolean type variable."
+  type = bool
+}
