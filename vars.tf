@@ -14,3 +14,5 @@ variable "bool_i_az_elet" {
   description = "A sample boolean type variable."
   type = bool
 }
+
+variable "this should not be working
