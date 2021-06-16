@@ -14,6 +14,3 @@ variable "bool_i_az_elet" {
   description = "A sample boolean type variable."
   type = bool
 }
-
-var____iable "this template should not work
-}
